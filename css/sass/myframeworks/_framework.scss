@@ -1,0 +1,8 @@
+.display-g-2 {
+
+}
+.display-g-3 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
